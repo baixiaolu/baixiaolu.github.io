@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74491f28","path":"/kod/","title":"可道云","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"参考资料","slug":"参考资料","link":"#参考资料","children":[]}],"git":{"updatedTime":1704120168000,"contributors":[{"name":"baixiaolu","email":"baixiaolu2005@qq.com","commits":1}]},"filePathRelative":"kod/README.md"}');export{e as data};

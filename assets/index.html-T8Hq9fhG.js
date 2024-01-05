@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-14c69af4","path":"/java/","title":"Java","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"空白","slug":"空白","link":"#空白","children":[]}],"git":{"updatedTime":1703055058000,"contributors":[{"name":"baixiaolu","email":"baixiaolu2005@qq.com","commits":1}]},"filePathRelative":"java/README.md"}');export{a as data};
